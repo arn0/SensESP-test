@@ -1,0 +1,35 @@
+[submodule "components/AceButton"]
+	path = components/AceButton
+	url = git@github.com:arn0/AceButton.git
+	branch = esp-idf
+[submodule "components/ArduinoJson"]
+	path = components/ArduinoJson
+	url = git@github.com:arn0/ArduinoJson.git
+[submodule "components/AsyncTCP"]
+	path = components/AsyncTCP
+	url = git@github.com:arn0/AsyncTCP.git
+	branch = esp-idf
+[submodule "components/elapsedMillis"]
+	path = components/elapsedMillis
+	url = git@github.com:arn0/elapsedMillis.git
+	branch = esp-idf
+[submodule "components/ESPAsyncWebServer"]
+	path = components/ESPAsyncWebServer
+	url = git@github.com:arn0/ESPAsyncWebServer.git
+	branch = esp-idf
+[submodule "components/ReactESP"]
+	path = components/ReactESP
+	url = git@github.com:arn0/ReactESP.git
+	branch = esp-idf
+[submodule "components/SensESP"]
+	path = components/SensESP
+	url = git@github.com:arn0/SensESP.git
+	branch = esp-idf
+[submodule "components/ESPAsyncWiFiManager"]
+	path = components/ESPAsyncWiFiManager
+	url = git@github.com:arn0/ESPAsyncWiFiManager.git
+	branch = esp-idf
+[submodule "components/WebSockets"]
+	path = components/WebSockets
+	url = git@github.com:arn0/WebSockets.git
+	branch = esp-idf

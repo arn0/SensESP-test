@@ -1,2 +1,19 @@
-/.devcontainer
-/.vscode
+# Ignore macOS system metadata
+*.DS_Store
+
+# Ignore build folder
+build
+
+# Ignore files built by Visual Studio
+.vscode
+.devcontainer
+
+# Ignore files built by Platformio
+.pio
+
+# Ignore files built by ESP-IDF
+#components/
+managed_components/
+sdkconfig
+sdkconfig.old
+dependencies.lock

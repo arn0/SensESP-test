@@ -17,3 +17,4 @@ managed_components/
 sdkconfig
 sdkconfig.old
 dependencies.lock
+debug.log

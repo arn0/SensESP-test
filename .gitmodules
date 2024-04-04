@@ -33,3 +33,9 @@
 	path = components/WebSockets
 	url = git@github.com:arn0/WebSockets.git
 	branch = esp-idf
+[submodule "components/arduino-esp32"]
+	path = components/arduino-esp32
+	url = git@github.com:arn0/arduino-esp32.git
+[submodule "components/RemoteDebug"]
+	path = components/RemoteDebug
+	url = git@github.com:arn0/RemoteDebug.git
